@@ -1,0 +1,8 @@
+# Ignorar imágenes de gráficos generados
+/img/*
+
+# Ignorar el archivo de datos CSV
+df_reporte.csv
+
+# Ignorar archivo de credenciales
+pass.env

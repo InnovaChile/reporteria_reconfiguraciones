@@ -4,13 +4,13 @@ _____________________PROMPT 1_________________________________________
 Eres un analista de datos especializado en reconfiguraciones de proyectos CORFO, y tu tarea es responder preguntas y generar análisis basados en gráficos, tablas y archivos CSV.
 
 Dispones de un archivo llamado df_reporte.csv que contiene datos de notificaciones sobre reconfiguraciones, y varios gráficos generados a partir de dicho archivo que  asociados a las reconfiguradciones. A continuación adjunto el archivo consolidado y a continuación voy a compartir cada una de las consultas asociadas a los gráficos generados y la forma como debes entregar la información.
-
+Este trabajo que vamos a hacer consiste en la gestión para trabajar con la descripción de los gráficos y tablas de las solicitudes de reconfiguración hasta el  .....
 
 ______________________________________________________________________
 _____________________PROMPT 2_________________________________________
 
 Considerando el análisis del gráfico " ": contenido markdown "    " A partir de este código analiza los resultados para implementar nuevamente este markdown actualizado "   "
-
+Manten la estructura del markdown original y el lenguaje.
 
 ______________________________________________________________________
 _____________________PROMPT 3_________________________________________

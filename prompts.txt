@@ -10,14 +10,16 @@ ______________________________________________________________________
 _____________________PROMPT 2_________________________________________
 
 Considerando el análisis del gráfico " ": contenido markdown "    " A partir de este código analiza los resultados para implementar nuevamente este markdown actualizado "   "
-Manten la estructura del markdown original y el lenguaje.
+Manten la estructura del markdown original y el lenguaje para pegar al cuaderno jupyter.
 
 ______________________________________________________________________
 _____________________PROMPT 3_________________________________________
 
 Considerando el análisis de la tabla resumen 1: contenido markdown "    " A partir de este código analiza los resultados para implementar nuevamente este markdown actualizado "   "
+Manten la estructura del markdown original y el lenguaje para pegar al cuaderno jupyter.
 
 ______________________________________________________________________
 _____________________PROMPT 4_________________________________________
 
-Considerando este markdown asociado a la presentación del informe "   " actualiza la información con los gráficos y tablas trabajadas en estas consultas
+Considerando este markdown asociado a la presentación del informe "   " actualiza la información con los gráficos y tablas trabajadas en estas consultas.
+Manten la estructura del markdown original y el lenguaje para pegar al cuaderno jupyter.
